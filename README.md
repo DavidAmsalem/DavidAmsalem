@@ -1,7 +1,7 @@
 ![](https://github.com/DavidAmsalem/DavidAmsalem/blob/56ff02c8a569ea57e965848ab49459a2f7083c24/github_readme_banner.jpg?raw=true)
 
 
-<img src="https://github.com/DavidAmsalem/DavidAmsalem/blob/56ff02c8a569ea57e965848ab49459a2f7083c24/github_readme_banner.jpg?raw=true" style="height: 150px;">
+<img src="https://github.com/DavidAmsalem/DavidAmsalem/blob/56ff02c8a569ea57e965848ab49459a2f7083c24/github_readme_banner.jpg?raw=true" style="height: 150px; width: 100%">
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidamsalem&show_icons=true&theme=transparent)
 ### Hi there 👋
