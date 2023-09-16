@@ -2,8 +2,8 @@
 this is David's profile youre whatching 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidamsalem&show_icons=true&theme=transparent)
 
-<!--START_SECTION:devData-->
-<!--END_SECTION:devData-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 🌱 I’m currently learning to be a DevOps master
 - 🔭 I’m currently working on my technical skills and problem solvig methods
